@@ -16,3 +16,10 @@ These functions include - Lambda, Map, Filter and Reduce from functools.
 9. 8-simple_delete.py - A function that deletes a key in a dictionary
 10. 9-multiply_by_2.py - A function that returns a new dictionary with all the values multiplied by 2
 11. 10-best_score.py - A function that returns a key with the biggest integer value
+12. 11-multiply_list_map - A function that returns a list with all values multiplied by a number without using any loops.
+13. 12-roman_to_int.py - A function that converts a Roman numeral to an integer.
+
+## Advanced
+
+1. 100-weight_average.py - A function that returns the weighed average of all integers tuple
+2. 101-square_matrix_map.py - A function that computes the square value of a matrix using map
