@@ -15,3 +15,4 @@ These functions include - Lambda, Map, Filter and Reduce from functools.
 8. 7-update_dictionary.py - A function that replaces or adds key/value in a dictionary
 9. 8-simple_delete.py - A function that deletes a key in a dictionary
 10. 9-multiply_by_2.py - A function that returns a new dictionary with all the values multiplied by 2
+11. 10-best_score.py - A function that returns a key with the biggest integer value
