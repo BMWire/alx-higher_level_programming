@@ -10,4 +10,4 @@ These functions include - Lambda, Map, Filter and Reduce from functools.
 3. 2-uniq_add.py - A function that adds all unique elements in a list only once per integer.
 4. 3-common_elements.py - A function that returns a set of common elements in two sets.
 5. 4-only_diff_elements.py - A function that returns only the elements that are present in only one set.
-6. 5 
+6. 5-number_keys.py - A function that returns the number of keys in a dictionary.
