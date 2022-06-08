@@ -13,3 +13,4 @@ These functions include - Lambda, Map, Filter and Reduce from functools.
 6. 5-number_keys.py - A function that returns the number of keys in a dictionary.
 7. 6-print_sorted_dictionary.py - A function that prints a dictionary by ordered keys
 8. 7-update_dictionary.py - A function that replaces or adds key/value in a dictionary
+9. 8-simple_delete.py - A function that deletes a key in a dictionary
