@@ -14,6 +14,10 @@ Loops and conditional loops in Python
 
 Importing modules from other files and the defined modules as well
 
-## 0x03-python-data_structures
+## 0x03-python-data_structures, 0x04-python-more_data_structures
 
 Data structures like lists in Python
+
+## 0x05-python-exceptions
+
+Throwing the right exceptions that are also custom to the kind of errors that arise.
