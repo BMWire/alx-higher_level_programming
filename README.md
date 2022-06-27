@@ -21,3 +21,11 @@ Data structures like lists in Python
 ## 0x05-python-exceptions
 
 Throwing the right exceptions that are also custom to the kind of errors that arise.
+
+## 0x06-python-classes
+
+Learning about Object Oriented Programming in Python
+
+## 0x07-python-test_driven_development
+
+Implementing tests in Python

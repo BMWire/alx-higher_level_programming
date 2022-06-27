@@ -1,2 +1,5 @@
 # Ignore the test subfolders in each folder
 /0x04-python-more_data_structures/.*
+
+# Ignore the .vscode folder
+/.vscode
