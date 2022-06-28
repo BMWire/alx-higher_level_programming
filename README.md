@@ -29,3 +29,7 @@ Learning about Object Oriented Programming in Python
 ## 0x07-python-test_driven_development
 
 Implementing tests in Python
+
+## 0x08-python-more_classes
+
+Deeper dive into OOP in Python.
