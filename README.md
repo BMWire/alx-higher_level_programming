@@ -33,3 +33,7 @@ Implementing tests in Python
 ## 0x08-python-more_classes
 
 Deeper dive into OOP in Python.
+
+## 0x09-python-everything_is_object
+
+Understanding the whole universe of Python.
