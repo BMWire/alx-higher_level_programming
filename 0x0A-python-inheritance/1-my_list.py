@@ -7,11 +7,12 @@ It defines a class that inherits from 'list'
 
 
 class MyList(list):
-    """Initializes the list"""
+    """Subclass of list"""
 
     def __init__(self):
+        """Initializes the list"""
         super().__init__()
 
     def print_sorted(self):
         """Prints the list in ascending order"""
-        return print(sorted(self))
+        print(sorted(self))
