@@ -2,6 +2,8 @@
 
 ## Mandatory
 
-1. 0-lookup.py, 0-lookup.txt - Function that returns attributes and methods of an object.
+1. 0-lookup.py - Function that returns attributes and methods of an object.
+2. 1-my_list.py - Class that inherits from `list`.
+3. 
 
 ## Advanced
