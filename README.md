@@ -37,3 +37,7 @@ Deeper dive into OOP in Python.
 ## 0x09-python-everything_is_object
 
 Understanding the whole universe of Python.
+
+## 0x0A-python-inheritance
+
+Understanding class-based inheritance in Python
