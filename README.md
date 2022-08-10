@@ -53,3 +53,7 @@ Learning about Unit testing and how to implement it in a large project.
 ## 0x0D-SQL_introduction
 
 Introductory concepts to SQL and Relational Database Management Systems.
+
+## 0x0E-SQL_more_queries
+
+A deeper dive into SQL queries
