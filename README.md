@@ -49,3 +49,7 @@ Learning about writing and reading from files.
 ## 0x0C-python-almost_a_circle
 
 Learning about Unit testing and how to implement it in a large project.
+
+## 0x0D-SQL_introduction
+
+Introductory concepts to SQL and Relational Database Management Systems.
