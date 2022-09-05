@@ -57,3 +57,7 @@ Introductory concepts to SQL and Relational Database Management Systems.
 ## 0x0E-SQL_more_queries
 
 A deeper dive into SQL queries
+
+## 0x12-javascript-warm_up
+
+Getting started with JavaScript
