@@ -61,3 +61,7 @@ A deeper dive into SQL queries
 ## 0x12-javascript-warm_up
 
 Getting started with JavaScript
+
+## 0x13-javascript_objects_scopes_closures
+
+Learning about objects, scopes and closures in JavaScript
