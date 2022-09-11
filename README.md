@@ -65,3 +65,7 @@ Getting started with JavaScript
 ## 0x13-javascript_objects_scopes_closures
 
 Learning about objects, scopes and closures in JavaScript
+
+## 0x0F-python-object_relational_mapping
+
+Learning about Object Relational Mapping in Python
